@@ -1,4 +1,4 @@
 # hello-world
 intro guide
 
-Hi I'm just a noob, but even a noob can become skilled with hard work.
+Hi it's 5:30 am and what am I doing
